@@ -403,6 +403,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 ## ✨ Contribuidores
 
-<a href="https://github.com/eu-waliston/authflow-api/graphs/contributors"> <img src="https://contrib.rocks/image?repo=eu-waliston/authflow-api" /> </a>
+[![Contributors](https://contrib.rocks/image?repo=eu-waliston/authflow-api)](https://github.com/eu-waliston/authflow-api/graphs/contributors)
+
 
 ## ⭐ Se este projeto te ajudou, considere dar uma estrela no GitHub!

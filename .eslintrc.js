@@ -13,8 +13,7 @@ module.exports = {
     'consistent-return': 'off',
     'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
 
-    // 🔥 O que você quer de verdade:
-    semi: ['error', 'always'], // ponto e vírgula sempre
-    indent: ['error', 2], // indentação de 2 espaços
+    semi: ['error', 'always'], 
+    indent: ['error', 2],
   },
 };

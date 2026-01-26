@@ -85,4 +85,3 @@ refreshTokenSchema.static.verifyToken = async function(token) {
 const RefreshToken = mongoose.model('RefreshToken', refreshTokenSchema);
 
 module.export = RefreshToken;
-
